@@ -18,7 +18,6 @@ des données propres et bien structurées. Ce projet peut être utile pour les e
 - Adresse
 - Téléphone
 - Email
-- 
 **Export des données dans un fichier CSV pour une exploitation ultérieure.**
 
 **Gestion des erreurs pour les pages manquantes ou les informations non disponibles.**
@@ -31,4 +30,3 @@ des données propres et bien structurées. Ce projet peut être utile pour les e
 
 - **Requests :** Pour envoyer des requêtes HTTP et récupérer le contenu des pages web.
 
-CSV : Pour enregistrer les données extraites.
